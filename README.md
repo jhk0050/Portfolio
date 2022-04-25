@@ -1,7 +1,7 @@
 # Portfolio
 This portfolio is a small project using HTML/ CSS and Boostrap. I will be using this to show cas my projects
 
-[Live Deployment](https://jeffkelly-porfolio.netlify.app/)
+[Live Deployment](https://portfolio-jeffkelly.herokuapp.com/)
 
 ![Screenshot 2022-04-19 at 2 10 00 AM](https://user-images.githubusercontent.com/102613164/163874954-131b4b1f-cf70-4f5c-b5ee-8c283a0cd880.png)
 
